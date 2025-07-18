@@ -1,0 +1,22 @@
+# Python cache and builds
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VC Code settings
+.vscode/
+
+# Serverless Framework artifacts
+.serverless/
+
+# Environment files and logs
+*.env
+*.log
+
+# OS miscellany
+.DS_store
+Thumbs.db
